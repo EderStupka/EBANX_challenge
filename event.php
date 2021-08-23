@@ -62,7 +62,7 @@
 ?>
 
 
-<?php #header('HTTP/1.1 200 {"destination": {"id":"100", "balance":10}}');
+<?php 
 
     header_remove();
 
